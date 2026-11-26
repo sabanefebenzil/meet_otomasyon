@@ -1,0 +1,7 @@
+ayarlar.json
+MeetOtomasyon.exe
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
